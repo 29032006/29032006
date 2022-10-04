@@ -1,4 +1,4 @@
-oi meu nome e 29032006
-meu emeil de contado e tatiane.zaniboni@escola.pr.gov.br
-estou interesado em aprender programar mais linguagem
- sou estudante
+- Olá meu nome é @tatiane29032006
+ - Meu email de contado é tatiane.zaniboni@escola.pr.gov.br
+ - Eu  estou interesado em a aprender programar novas linguagens.
+ - Eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
